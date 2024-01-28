@@ -1,0 +1,44 @@
+[
+  {
+    "operationId ": 6,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "17.12.2023 22:01",
+    "operationType": "incoming",
+    "operationAmount": "20"
+  },
+  {
+    "operationId ": 5,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "16.12.2023 22:01",
+    "operationType": "outgoing",
+    "operationAmount": "80"
+  },
+  {
+    "operationId ": 4,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "15.12.2023 22:01",
+    "operationType": "incoming",
+    "operationAmount": "70"
+  },
+  {
+    "operationId ": 3,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "15.12.2023 22:01",
+    "operationType": "incoming",
+    "operationAmount": "60"
+  },
+  {
+    "operationId ": 2,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "14.12.2023 22:01",
+    "operationType": "outgoing",
+    "operationAmount": "50"
+  },
+  {
+    "operationId ": 1,
+    "operationTitle ": "AAYDA kartla kocurtme",
+    "operationDate": "17.12.2023 22:01",
+    "operationType": "incoming",
+    "operationAmount": "150"
+  }
+]
