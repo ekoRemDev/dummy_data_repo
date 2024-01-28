@@ -35,7 +35,7 @@
       "title": "AAYDA kartla kocurtme",
       "date": "14.12.2023 22:01",
       "type": "outgoing",
-      "operationAmount": 50.0
+      "amount": 50.0
     },
     {
       "id": 1,
