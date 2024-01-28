@@ -1,44 +1,50 @@
-[
-  {
-    "id ": 6,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "17.12.2023 22:01",
-    "type": "incoming",
-    "amount": 20.0
-  },
-  {
-    "id ": 5,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "16.12.2023 22:01",
-    "type": "outgoing",
-    "amount": 80.0
-  },
-  {
-    "id ": 4,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "15.12.2023 22:01",
-    "type": "incoming",
-    "amount": 70.0
-  },
-  {
-    "id ": 3,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "15.12.2023 22:01",
-    "type": "incoming",
-    "amount": 60.0
-  },
-  {
-    "id ": 2,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "14.12.2023 22:01",
-    "type": "outgoing",
-    "operationAmount": 50.0
-  },
-  {
-    "id ": 1,
-    "title ": "AAYDA kartla kocurtme",
-    "date": "17.12.2023 22:01",
-    "type": "incoming",
-    "amount": 150.0
-  }
-]
+{
+  "code": 200,
+  "message": "OK",
+  "transactions": [
+    {
+      "id ": 6,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "17.12.2023 22:01",
+      "type": "incoming",
+      "amount": 20.0
+    },
+    {
+      "id ": 5,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "16.12.2023 22:01",
+      "type": "outgoing",
+      "amount": 80.0
+    },
+    {
+      "id ": 4,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "15.12.2023 22:01",
+      "type": "incoming",
+      "amount": 70.0
+    },
+    {
+      "id ": 3,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "15.12.2023 22:01",
+      "type": "incoming",
+      "amount": 60.0
+    },
+    {
+      "id ": 2,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "14.12.2023 22:01",
+      "type": "outgoing",
+      "operationAmount": 50.0
+    },
+    {
+      "id ": 1,
+      "title ": "AAYDA kartla kocurtme",
+      "date": "17.12.2023 22:01",
+      "type": "incoming",
+      "amount": 150.0
+    }
+  ]
+}
+
+
