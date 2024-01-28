@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "OK",
+  "passCards ": [
+    {
+      "id": 1,
+      "carPlateNo": "AA 100 AA",
+      "cardId": "1111111111",
+      "balance": 18.0,
+      "incoming": 12,
+      "failed": 0
+    },
+    {
+      "id": 1,
+      "carPlateNo": "BB 200 BB",
+      "cardId": "2222222222",
+      "balance": 0.0,
+      "incoming": 4,
+      "failed": 2
+    }
+  ]
+}
+
+
