@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "vehicles": [
+    {
+      "id": 6,
+      "brand": "Mercedes,XXX.xxx",
+      "plate": "AA 100 AA"
+    },
+    {
+      "id": 5,
+      "brand": "BMW,XXX.xxx",
+      "plate": "BB 200 BB"
+    },
+    {
+      "id": 4,
+      "brand": "Volvo,XXX.xxx",
+      "plate": "CC 300 CC"
+    },
+    {
+      "id": 3,
+      "brand": "Toyota,XXX.xxx",
+      "plate": "DD 400 DD"
+    },
+    {
+      "id": 2,
+      "brand": "Lexus,XXX.xxx",
+      "plate": "EE 500 EE"
+    },
+    {
+      "id": 1,
+      "brand": "Honda,XXX.xxx",
+      "plate": "FF 600 FF"
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes,XXX.xxx",
+      "plate": "AA 100 AA"
+    },
+    {
+      "id": 5,
+      "brand": "BMW,XXX.xxx",
+      "plate": "BB 200 BB"
+    },
+    {
+      "id": 4,
+      "brand": "Volvo,XXX.xxx",
+      "plate": "CC 300 CC"
+    },
+    {
+      "id": 3,
+      "brand": "Toyota,XXX.xxx",
+      "plate": "DD 400 DD"
+    },
+    {
+      "id": 2,
+      "brand": "Lexus,XXX.xxx",
+      "plate": "EE 500 EE"
+    },
+    {
+      "id": 1,
+      "brand": "Honda,XXX.xxx",
+      "plate": "FF 600 FF"
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes,XXX.xxx",
+      "plate": "AA 100 AA"
+    },
+    {
+      "id": 5,
+      "brand": "BMW,XXX.xxx",
+      "plate": "BB 200 BB"
+    },
+    {
+      "id": 4,
+      "brand": "Volvo,XXX.xxx",
+      "plate": "CC 300 CC"
+    },
+    {
+      "id": 3,
+      "brand": "Toyota,XXX.xxx",
+      "plate": "DD 400 DD"
+    },
+    {
+      "id": 2,
+      "brand": "Lexus,XXX.xxx",
+      "plate": "EE 500 EE"
+    },
+    {
+      "id": 1,
+      "brand": "Honda,XXX.xxx",
+      "plate": "FF 600 FF"
+    }
+  ]
+}
+
+
