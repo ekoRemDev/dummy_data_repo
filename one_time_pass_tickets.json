@@ -1,0 +1,35 @@
+{
+  "code": 200,
+  "message": "OK",
+  "passCards ": [
+    {
+      "id": 1,
+      "title": "Avtoban Bilet",
+      "date": "14.12.2023 22:01",
+      "entry": "Baku",
+      "exit": "Quba",
+      "brand": "Mercedes,XXX.xxx",
+      "plate": "AA 100 AA"
+    },
+    {
+      "id": 2,
+      "title": "Avtoban Bilet",
+      "date": "16.12.2023 22:01",
+      "entry": "Baku",
+      "exit": "Quba",
+      "brand": "BMW,XXX.xxx",
+      "plate": "BB 200 BB"
+    },
+    {
+      "id": 3,
+      "title": "Avtoban Bilet",
+      "date": "16.12.2023 22:01",
+      "entry": "Baku",
+      "exit": "Quba",
+      "brand": "BMW,XXX.xxx",
+      "plate": "BB 200 BB"
+    }
+  ]
+}
+
+
